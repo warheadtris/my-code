@@ -1,0 +1,15 @@
+{
+  "name": "nodejse",
+  "version": "1.0.0",
+  "description": "this is my package file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my-code"
+  },
+  "author": "Tristan Knudson",
+  "license": "ISC"
+}
